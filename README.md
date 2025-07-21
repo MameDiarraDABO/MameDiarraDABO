@@ -1,6 +1,11 @@
-# Salut je suis Mame Diarra DABO !! 👋
+# 👋 Salut, je suis Mame Diarra DABO !
 
 - 🔭 Data Analyste & Analyste Risques | Python | SQL | Data Visualisation & Machine Learning
+
+- 🎓 **Diplômée d’un Master 2 – Big Data, Data Science et Analyse des Risques**  
+📍 Université de Montpellier (2024–2025)  
+🎯 Spécialisée en data science, machine learning, analyse de risques et visualisation de données
+
 - 🌱 Titulaire du titre RNCP ( Niveau BAC+4) en Data Analyst et ( Niveau BAC+5) en Data Science avec OpenClassRooms
 - 🎯 Actuellement inscrite à l'Université de Montpellier pour une Diplôme d'études supérieures spécialisées en Big Data, Data Science et Analyse des Risques sous Python
 - 👯 Je suis à la recherche d'un stage de fin d'études afin de valider mon diplôme. Disponible dès mi_février
