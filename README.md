@@ -41,6 +41,50 @@ Je suis motivée à rejoindre une structure où je pourrai **contribuer activeme
 
 ---
 
+## 📁 Projets – OpenClassrooms (Data Analyst & Data Scientist)
+
+Suite à ma double formation (RNCP Bac+4 et Bac+5), j’ai mené 9 projets professionnalisants :  
+- Analyses exploratoires et statistiques avec Python  
+- Dashboards dynamiques sous Power BI / Tableau  
+- Requêtes SQL complexes (PostgreSQL, MySQL)  
+- Machine Learning : régression linéaire, arbres, SVM  
+- Préparation de données, data storytelling, data cleaning
+
+🛠️ Technologies : Python, Jupyter, R, SQL, Pandas, Matplotlib, Seaborn, Power BI, Tableau, Knime
+
+---
+
+## 📚 Projets universitaires – Université de Montpellier (2024–2025)
+
+### 🚗 **Analyse des accidents corporels de la route (Projet tuteuré)**  
+Projet de fin d'études pour l’obtention du Master.  
+- Croisement de 10 bases (accidents, véhicules, personnes, localisation…)  
+- Visualisations croisées, tests statistiques, ACP, ACM  
+- GLM binomial, XGBoost, interprétation SHAP  
+🎯 *Objectif : Identifier les facteurs influençant la gravité des accidents*
+
+### 🌦️ **Sinistralité automobile & événements climatiques**  
+Projet académique multidisciplinaire (économétrie, machine learning, data wrangling)  
+- Jointure spatio-temporelle de données sinistres + météo  
+- Sélection de variables (PCA), analyse spatiale (cartographie), arbres de décision  
+- Étude de l’effet des événements extrêmes sur la fréquence des sinistres
+
+> [!NOTE] :
+> Le premier projet, axé sur l’évaluation des compétences non techniques (soft skills) du métier, ne présente pas d’éléments techniques à valoriser ici.
+> Le deuxième projet, réalisé exclusivement sous Excel, ne comporte pas de script ou de code et n’a pas été inclus dans ce dépôt.
+
+---
+
+## 🔧 À venir...
+
+- Dépôts GitHub des notebooks Jupyter utilisés pour les projets  
+- Résumés méthodologiques + infographies Power BI  
+- Intégration de projets personnels : scoring, clustering, dashboarding
+
+---
+
+📌 *Merci de votre visite ! N'hésitez pas à me contacter pour en savoir plus ou collaborer.*
+
 <!--
 - 🌱 Titulaire du titre RNCP ( Niveau BAC+4) en Data Analyst et ( Niveau BAC+5) en Data Science avec OpenClassRooms
 - 🎯 Actuellement inscrite à l'Université de Montpellier pour une Diplôme d'études supérieures spécialisées en Big Data, Data Science et Analyse des Risques sous Python
