@@ -1,20 +1,52 @@
 # 👋 Salut, je suis Mame Diarra DABO !
 
-- 🔭 Data Analyste & Analyste Risques | Python | SQL | Data Visualisation & Machine Learning
+<!--- 🔭 Data Analyste & Analyste Risques | Python | SQL | Data Visualisation & Machine Learning
+--->
 
-- 🎓 **Diplômée d’un Master 2 – Big Data, Data Science et Analyse des Risques**  
-📍 Université de Montpellier (2024–2025)  
-🎯 Spécialisée en data science, machine learning, analyse de risques et visualisation de données
+ 🎓 **Diplômée d’un Master 2 – Big Data, Data Science et Analyse des Risques**  
+ 📍 Université de Montpellier (2024–2025)  
+ 🎯 Spécialisée en Data Analyste, Data Science, Machine Learning, Analyse de risques et visualisation de données
+ 
+ ---
 
+  ## 💼 À propos
+
+ 🔍 Je suis passionnée par la **valorisation des données** pour générer de la connaissance, anticiper les risques et améliorer la prise de décision.  
+💻 Je combine une solide formation technique (OpenClassrooms + Université de Montpellier) avec une forte capacité à comprendre les enjeux métiers.
+
+🧠 **Compétences principales :**  
+- **Python** (Pandas, NumPy, Scikit-learn, Statsmodels, SHAP)  
+- **SQL** (PostgreSQL, MySQL), Power BI, Tableau  
+- **Modélisation statistique** : régression, ACP, GLM, arbres de décision  
+- **Machine Learning** : classification, importance des variables, interprétabilité  
+- **Outils** : Git & GitHub, Jupyter, VS Code, Knime  
+
+---
+
+## 🚀 Objectif professionnel
+
+🎯 Je suis à la **recherche d’un poste en CDI** en tant que :
+- **Data Analyst**
+- **Data Scientist**
+- **Risk Analyst**
+
+Je suis motivée à rejoindre une structure où je pourrai **contribuer activement à des projets analytiques**, tout en continuant à me perfectionner.
+
+---
+
+## 📫 Me contacter
+
+- 📧 diarradabo@hotmail.fr  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mamediarradabo-data-scientist-paris-et-peripherie-/)
+
+---
+
+<!--
 - 🌱 Titulaire du titre RNCP ( Niveau BAC+4) en Data Analyst et ( Niveau BAC+5) en Data Science avec OpenClassRooms
 - 🎯 Actuellement inscrite à l'Université de Montpellier pour une Diplôme d'études supérieures spécialisées en Big Data, Data Science et Analyse des Risques sous Python
 - 👯 Je suis à la recherche d'un stage de fin d'études afin de valider mon diplôme. Disponible dès mi_février
 - 💬 Vous pouvez m'écrire sur: diarradabo@hotmail.fr
 - 📫 Retrouvez-moi sur: https://www.linkedin.com/in/mamediarradabo-data-scientist-paris-et-peripherie-/
-<!--
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 --->
 
 # Mes projets Data Analyst avec OpenClassrooms
