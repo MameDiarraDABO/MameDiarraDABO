@@ -14,12 +14,47 @@
  🔍 Je suis passionnée par la **valorisation des données** pour générer de la connaissance, anticiper les risques et améliorer la prise de décision.  
 💻 Je combine une solide formation technique (OpenClassrooms + Université de Montpellier) avec une forte capacité à comprendre les enjeux métiers.
 
+<!---
 🧠 **Compétences principales :**  
 - **Python** (Pandas, NumPy, Scikit-learn, Statsmodels, SHAP)  
 - **SQL** (PostgreSQL, MySQL), Power BI, Tableau  
 - **Modélisation statistique** : régression, ACP, GLM, arbres de décision  
 - **Machine Learning** : classification, importance des variables, interprétabilité  
 - **Outils** : Git & GitHub, Jupyter, VS Code, Knime  
+--->
+
+🧠 Compétences principales
+
+🔣 Programmation & Outils
+Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, SHAP)
+
+R, SAS, SQL (MySQL, PostgreSQL, SQL Server, MariaDB), NoSQL (MongoDB)
+
+Git & GitHub, Jupyter Notebook, KNIME, ETL, Streamlit
+
+Langage M, DAX, Power Query (via Power BI)
+
+📊 Data Visualisation
+Power BI, Tableau, KNIME, Excel (VBA)
+
+🧠 Machine Learning & IA
+Modélisation statistique : régression, GLM, ACP, arbres de décision
+
+Machine Learning : classification, détection de fraude, importance des variables
+
+Deep Learning : réseaux de neurones, Computer Vision, NLP (transformers, LLM), Text Mining
+
+☁️ Cloud & Big Data
+Cloud : AWS, Azure, Heroku, Google Cloud
+
+Big Data : Hadoop, PySpark, Databricks, API
+
+🧰 Autres outils
+Bureautique : Pack Office (Excel, Word, PowerPoint), VBA
+
+IDE : VS Code, RStudio
+
+Frameworks : TensorFlow, PyTorch
 
 ---
 
