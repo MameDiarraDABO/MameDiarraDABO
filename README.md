@@ -52,6 +52,15 @@ Suite à ma double formation (RNCP Bac+4 et Bac+5), j’ai mené 9 projets profe
 
 🛠️ Technologies : Python, Jupyter, R, SQL, Pandas, Matplotlib, Seaborn, Power BI, Tableau, Knime
 
+> ℹ️ **NOTE IMPORTANTE :**  
+> Le premier projet, axé sur l’évaluation des compétences non techniques (soft skills) du métier, ne présente pas d’éléments techniques à valoriser ici.  
+> Le deuxième projet, réalisé exclusivement sous Excel, ne comporte pas de script ou de code et n’a pas été inclus dans ce dépôt.
+
+<!--
+> [!NOTE IMPORTANTE:]
+> Le premier projet, axé sur l’évaluation des compétences non techniques (soft skills) du métier, ne présente pas d’éléments techniques à valoriser ici.
+> Le deuxième projet, réalisé exclusivement sous Excel, ne comporte pas de script ou de code et n’a pas été inclus dans ce dépôt.
+--->
 ---
 
 ## 📚 Projets universitaires – Université de Montpellier (2024–2025)
@@ -68,10 +77,6 @@ Projet académique multidisciplinaire (économétrie, machine learning, data wra
 - Jointure spatio-temporelle de données sinistres + météo  
 - Sélection de variables (PCA), analyse spatiale (cartographie), arbres de décision  
 - Étude de l’effet des événements extrêmes sur la fréquence des sinistres
-
-> [!NOTE] :
-> Le premier projet, axé sur l’évaluation des compétences non techniques (soft skills) du métier, ne présente pas d’éléments techniques à valoriser ici.
-> Le deuxième projet, réalisé exclusivement sous Excel, ne comporte pas de script ou de code et n’a pas été inclus dans ce dépôt.
 
 ---
 
@@ -91,7 +96,6 @@ Projet académique multidisciplinaire (économétrie, machine learning, data wra
 - 👯 Je suis à la recherche d'un stage de fin d'études afin de valider mon diplôme. Disponible dès mi_février
 - 💬 Vous pouvez m'écrire sur: diarradabo@hotmail.fr
 - 📫 Retrouvez-moi sur: https://www.linkedin.com/in/mamediarradabo-data-scientist-paris-et-peripherie-/
---->
 
 # Mes projets Data Analyst avec OpenClassrooms
 Voici des projets que j'ai réalisé dans le cadre de ma formation au parcours Data Analyst avec OpenClassrooms. La formation « Data Analyst » est réalisée en partenariat avec l’ENSAE spécialisée en statistiques et en data science. La formation comporte 9 projets purement professionnels ce qui m'a permis de maîtriser les technologies et les langages techniques les plus demandés comme: Python, Jupiter, R, Rstudio, MySQL, PostgreSQL, SQL, Knime, Tableau Desktop, PowerBI, Pandas, Numpy, Matplotlib, Seaborn.
@@ -99,6 +103,8 @@ Voici des projets que j'ai réalisé dans le cadre de ma formation au parcours D
 Vous trouverez ci dessous l'intitulé des différents projets avec des projets personnels réalisés et les compétences acquises pour chacun d'eux.
 > [!NOTE]
 > Le projet 1 est absent de mon Portfolio car il évalue des compétences de type softs kills pour le metier de Data Analyst et le projet 2 ne comporte pas de code (Excel).
+-->
+
 <!--
 https://www.youtube.com/watch?v=MFPyVDSZVK0&t=100s
 https://www.youtube.com/watch?v=vD-t_IohSbo&t=612s
@@ -109,6 +115,7 @@ https://gist.github.com/uupaa/f77d2bcf4dc7a294d109
 https://github.com/Juuutran/Juuutran
 # Faites une analyse des ventes pour un e-commerce
 --->
+---
 
 # [Faites une analyse des ventes pour un e-commerce](https://github.com/MameDiarraDABO/Projet_2_Data_Analyst)
 ## Problématique: 
