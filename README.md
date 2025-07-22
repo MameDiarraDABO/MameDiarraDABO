@@ -26,35 +26,27 @@
 🧠 Compétences principales
 
 🔣 Programmation & Outils
-Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, SHAP)
-
-R, SAS, SQL (MySQL, PostgreSQL, SQL Server, MariaDB), NoSQL (MongoDB)
-
-Git & GitHub, Jupyter Notebook, KNIME, ETL, Streamlit
-
-Langage M, DAX, Power Query (via Power BI)
+- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, SHAP)
+- R, SAS, SQL (MySQL, PostgreSQL, SQL Server, MariaDB), NoSQL (MongoDB)
+- Git & GitHub, Jupyter Notebook, KNIME, ETL, Streamlit
+- Langage M, DAX, Power Query (via Power BI)
 
 📊 Data Visualisation
-Power BI, Tableau, KNIME, Excel (VBA)
+- Power BI, Tableau, KNIME, Excel (VBA)
 
 🧠 Machine Learning & IA
-Modélisation statistique : régression, GLM, ACP, arbres de décision
-
-Machine Learning : classification, détection de fraude, importance des variables
-
-Deep Learning : réseaux de neurones, Computer Vision, NLP (transformers, LLM), Text Mining
+- Modélisation statistique : régression, GLM, ACP, arbres de décision
+- Machine Learning : classification, détection de fraude, importance des variables
+- Deep Learning : réseaux de neurones, Computer Vision, NLP (transformers, LLM), Text Mining
 
 ☁️ Cloud & Big Data
-Cloud : AWS, Azure, Heroku, Google Cloud
-
-Big Data : Hadoop, PySpark, Databricks, API
+- Cloud : AWS, Azure, Heroku, Google Cloud
+- Big Data : Hadoop, PySpark, Databricks, API
 
 🧰 Autres outils
-Bureautique : Pack Office (Excel, Word, PowerPoint), VBA
-
-IDE : VS Code, RStudio
-
-Frameworks : TensorFlow, PyTorch
+- Bureautique : Pack Office (Excel, Word, PowerPoint), VBA
+- IDE : VS Code, RStudio
+- Frameworks : TensorFlow, PyTorch
 
 ---
 
