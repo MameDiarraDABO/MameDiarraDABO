@@ -92,7 +92,7 @@ Suite à ma double formation (RNCP Bac+4 et Bac+5), j’ai mené 9 projets profe
 
 ## 📚 Projets universitaires – Université de Montpellier (2024–2025)
 
-### 🚗 **Analyse des accidents corporels de la route (Projet tuteuré)**  
+### 🚗 **Analyse des accidents corporels de la route (Projet tutoré)**  
 Projet de fin d'études pour l’obtention du Master.  
 - Croisement de 10 bases (accidents, véhicules, personnes, localisation…)  
 - Visualisations croisées, tests statistiques, ACP, ACM  
@@ -145,7 +145,7 @@ https://github.com/Juuutran/Juuutran
 ---
 # [🚗 Analyse des accidents corporels de la route en France](https://github.com/MameDiarraDABO/Projet_4_Data_Analyst)
 
-🎓 **Projet tuteuré – Master 2 Big Data, Data Science & Analyse des Risques**  
+🎓 **Projet tutoré – Master 2 Big Data, Data Science & Analyse des Risques**  
 Université de Montpellier (2024–2025)
 
 ## 📌 Objectif du projet:
