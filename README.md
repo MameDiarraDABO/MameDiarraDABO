@@ -143,14 +143,27 @@ https://github.com/Juuutran/Juuutran
 # Faites une analyse des ventes pour un e-commerce
 --->
 ---
+# [🚗 Analyse des accidents corporels de la route en France](https://github.com/MameDiarraDABO/Projet_4_Data_Analyst)
 
-# [Analyse des accidents corporels de la route](https://github.com/MameDiarraDABO/Projet_4_Data_Analyst)
-## Problématique:
-Rejoingnant une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO).C’est l’un des organes qui composent l’ONU et dont l’objectif est « d’aider à construire un monde libéré de la faim ».
-Faire une étude sur l’alimentation et plus particulièrement sur la sous-nutrition dans le monde.
+🎓 **Projet tuteuré – Master 2 Big Data, Data Science & Analyse des Risques**  
+Université de Montpellier (2024–2025)
+
+## 📌 Objectif du projet:
+Ce projet vise à identifier les **facteurs influençant la gravité des accidents corporels de la route** en France à partir des données publiques de la base BAAC (Bulletin d’Analyse des Accidents Corporels).
+
 <p align = "center">
- <img width="1000" height="300" src = "https://www.fao.org/images/faofooterlibraries/default-album/south-sudan.jpg?sfvrsn=3f04ca76_11"/>
+ <img width="1000" height="300" src = "https://www.mittlach.fr/wp-content/uploads/2024/04/securite-routiere.webp"/>
 </p>
+
+## 📁 Données utilisées
+
+Les données proviennent de la base ouverte du Ministère de l’Intérieur français :  
+- **Accidents** : caractéristiques des événements  
+- **Usagers**, **Véhicules**, **Lieux**  
+- **Variables spatiales** (communes, départements, coordonnées GPS)
+
+📎 Sources : [data.gouv.fr - BAAC](https://www.data.gouv.fr/fr/datasets/base-de-donnees-accidents-corporels-de-la-circulation/)
+
 
 ## Objectif: 
 * La proportion de personnes en état de sous-nutrition ;
