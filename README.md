@@ -197,10 +197,9 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
 # [Sinistralité automobile & événements climatiques](https://github.com/MameDiarraDABO/Projet_4_Data_Analyst)
 ## Problématique:
-Rejoingnant une équipe de chercheurs de la Food and Agriculture Organization of the United Nations (FAO).C’est l’un des organes qui composent l’ONU et dont l’objectif est « d’aider à construire un monde libéré de la faim ».
-Faire une étude sur l’alimentation et plus particulièrement sur la sous-nutrition dans le monde.
+Faire une prédiction du montant des sinistres en assurance automobile.
 <p align = "center">
- <img width="1000" height="300" src = "https://www.fao.org/images/faofooterlibraries/default-album/south-sudan.jpg?sfvrsn=3f04ca76_11"/>
+ <img width="1000" height="300" src = "https://www.atlantasanad.ma/sites/default/files/EN-CAS-DE-SINISTRE-AUTO.jpg"/>
 </p>
 
 ## Objectif: 
