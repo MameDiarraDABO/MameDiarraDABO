@@ -192,7 +192,8 @@ Ce projet vise à identifier les **facteurs influençant la gravité des acciden
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 --->
 > [!NOTE]
-> Vous pouvez consulter le notebook de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_4_Data_Analyst/blob/main/DABO_Mame_Diarra_1_notebook_022022.ipynb
+> Vous pouvez consulter le notebook de ce projet via ce lien:
+> https://github.com/MameDiarraDABO/Projet_4_Data_Analyst/blob/main/DABO_Mame_Diarra_1_notebook_022022.ipynb
 
 # [Sinistralité automobile & événements climatiques](https://github.com/MameDiarraDABO/Projet_4_Data_Analyst)
 ## Problématique:
@@ -219,7 +220,7 @@ Faire une étude sur l’alimentation et plus particulièrement sur la sous-nutr
 jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 
 > [!NOTE]
-> Vous pouvez consulter le notebook de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_4_Data_Analyst/blob/main/DABO_Mame_Diarra_1_notebook_022022.ipynb
+> Vous pouvez consulter les notebook de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_4_Data_Analyst/blob/main/DABO_Mame_Diarra_1_notebook_022022.ipynb
 
 # [Faites une analyse des ventes pour un e-commerce](https://github.com/MameDiarraDABO/Projet_2_Data_Analyst)
 ## Problématique: 
