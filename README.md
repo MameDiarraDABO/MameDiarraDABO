@@ -143,7 +143,7 @@ https://github.com/Juuutran/Juuutran
 # Faites une analyse des ventes pour un e-commerce
 --->
 ---
-# [🚗 Analyse des accidents corporels de la route en France](https://github.com/MameDiarraDABO/Projet_4_Data_Analyst)
+# [🚗 Analyse des accidents corporels de la route en France](https://github.com/MameDiarraDABO/Projet_tutore_DU)
 
 🎓 **Projet tutoré – Master 2 Big Data, Data Science & Analyse des Risques**  
 Université de Montpellier (2024–2025)
@@ -196,28 +196,44 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 > https://github.com/MameDiarraDABO/Projet_tutore_DU/blob/main/Script_Traitement_Donnees_Econometrie_DU_PT.ipynb
 > https://github.com/MameDiarraDABO/Projet_tutore_DU/blob/main/Script_Machine_Learning_DU_PT.ipynb
 
-# [Sinistralité automobile & événements climatiques](https://github.com/MameDiarraDABO/Projet_4_Data_Analyst)
-## Problématique:
-Faire une prédiction du montant des sinistres en assurance automobile.
+# [💸 Prédiction du montant des sinistres automobiles](https://github.com/MameDiarraDABO/Projet_4_Data_Analyst)
+
+🎓 **Projet académique – Master 2 Big Data, Data Science & Analyse des Risques**  
+Université de Montpellier (2025)
+
+---
+
+## 📌 Objectif du projet
+
+Ce projet vise à prédire le **montant des sinistres automobiles** à partir de données assurantielles détaillées. L’enjeu est d’aider les assureurs à **mieux estimer les provisions** et à affiner les stratégies de tarification.
+
+---
+
 <p align = "center">
  <img width="1000" height="300" src = "https://www.atlantasanad.ma/sites/default/files/EN-CAS-DE-SINISTRE-AUTO.jpg"/>
 </p>
 
-## Objectif: 
-* La proportion de personnes en état de sous-nutrition ;
-* Le nombre théorique de personnes qui pourraient être nourries à partir de la disponibilité alimentaire mondiale ;
-* La disponibilité alimentaire des produits végétaux ;
-* Calculer des proportions à partir de la disponibilité intérieure.
-* les pays pour lesquels la proportion de personnes sous-alimentées est la plus forte en 2017;
-* ceux qui ont le plus bénéficié d’aide depuis 2013;
-* ceux ayant le plus/le moins de disponibilité/habitant;
-* Toutes les infos que je trouverais utiles pour mettre en relief les pays qui semblent être le plus en difficulté.
-## Compétences: 
-  - [x] Rédiger et présenter une méthodologie d'exploration et d'analyse des données
-  - [x] Manipuler des DataFrames
-  - [x] Utiliser des librairies spécialisées pour les traitements data
-## Outils utilisés:
-jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
+## 🔍 Résultats clés
+
+- Le montant des sinistres est influencé par :
+  - le **type de garantie**,
+  - l’**ancienneté du conducteur**,
+  - la **zone géographique**,
+  - et la **valeur du véhicule**.
+- Le modèle XGBoost donne les meilleures performances (R² = XX%, RMSE = XX €)
+- Les explications SHAP mettent en évidence les situations à risque de montants élevés
+
+---
+
+## 📊 Technologies utilisées
+
+- **Python** : pandas, numpy, matplotlib, seaborn, scikit-learn, xgboost, shap
+- **IDE** : Jupyter Notebook
+- **Modèles** : Régression linéaire, arbres de décision, boosting
+- **Évaluation** : RMSE, MAE, R²
+- **Interprétation** : SHAP values
+
+---
 
 > [!NOTE]
 > Vous pouvez consulter les notebook de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_4_Data_Analyst/blob/main/DABO_Mame_Diarra_1_notebook_022022.ipynb
