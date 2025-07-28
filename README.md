@@ -105,6 +105,13 @@ Projet académique multidisciplinaire (économétrie, machine learning, data wra
 - Sélection de variables (PCA), analyse spatiale (cartographie), arbres de décision  
 - Étude de l’effet des événements extrêmes sur la fréquence des sinistres
 
+### 💸 **Prédiction du montant des sinistres automobiles**
+Projet de modélisation supervisée en régression
+- Nettoyage et transformation des montants, détection des outliers
+- Régression linéaire, Random Forest Regressor, XGBoost Regressor
+- Évaluation (RMSE, MAE, R²) et interprétation SHAP
+🎯 *Objectif : Estimer le montant des sinistres pour aider à la tarification et aux provisions*
+
 ---
 
 ## 🔧 À venir...
@@ -236,7 +243,8 @@ Ce projet vise à prédire le **montant des sinistres automobiles** à partir de
 ---
 
 > [!NOTE]
-> Vous pouvez consulter les notebook de ce projet via ce lien: https://github.com/MameDiarraDABO/Projet_4_Data_Analyst/blob/main/DABO_Mame_Diarra_1_notebook_022022.ipynb
+> Vous pouvez consulter les notebook de ce projet via ce lien:
+> https://github.com/MameDiarraDABO/Projet_4_Data_Analyst/blob/main/DABO_Mame_Diarra_1_notebook_022022.ipynb
 
 # [Faites une analyse des ventes pour un e-commerce](https://github.com/MameDiarraDABO/Projet_2_Data_Analyst)
 ## Problématique: 
