@@ -193,7 +193,8 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 --->
 > [!NOTE]
 > Vous pouvez consulter le notebook de ce projet via ce lien:
-> https://github.com/MameDiarraDABO/Projet_4_Data_Analyst/blob/main/DABO_Mame_Diarra_1_notebook_022022.ipynb
+> https://github.com/MameDiarraDABO/Projet_tutore_DU/blob/main/Script_Traitement_Donnees_Econometrie_DU_PT.ipynb
+> https://github.com/MameDiarraDABO/Projet_tutore_DU/blob/main/Script_Machine_Learning_DU_PT.ipynb
 
 # [Sinistralité automobile & événements climatiques](https://github.com/MameDiarraDABO/Projet_4_Data_Analyst)
 ## Problématique:
