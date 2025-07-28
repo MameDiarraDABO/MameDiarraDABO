@@ -196,7 +196,7 @@ jupyter notebook, langage python, pandas, numpy, seaborn, matplotlib, Powerpoint
 > https://github.com/MameDiarraDABO/Projet_tutore_DU/blob/main/Script_Traitement_Donnees_Econometrie_DU_PT.ipynb
 > https://github.com/MameDiarraDABO/Projet_tutore_DU/blob/main/Script_Machine_Learning_DU_PT.ipynb
 
-# [💸 Prédiction du montant des sinistres automobiles](https://github.com/MameDiarraDABO/Projet_4_Data_Analyst)
+# [💸 Prédiction du montant des sinistres automobiles](https://github.com/MameDiarraDABO/Projet_DU_montant_sinistre)
 
 🎓 **Projet académique – Master 2 Big Data, Data Science & Analyse des Risques**  
 Université de Montpellier (2025)
