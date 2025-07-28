@@ -607,7 +607,7 @@ Power BI, power query, DAX
 ## Problématique:
 Création d'un Dashboard avec Power BI pour connaitre le nombre de brasseries par état (Villes) avec les différentes productions de Bières (styles).
 <p align = "center">
- <img width="1000" height="300" src = "[https://www.plantes-et-sante.fr/images/articles/biere.jpg_720_1000_2](https://media.automation24.com/shopsystem/infopages/bierherstellung/bierherstellung-keyvisual-.webp)"/>
+ <img width="1000" height="300" src = "https://so-bieres.fr/wp-content/uploads/2025/06/Comprendre-la-levure-sauvage-dans-la-fabrication-de-biere-1024x585.png"/>
 </p>
 
 ## Objectif: 
