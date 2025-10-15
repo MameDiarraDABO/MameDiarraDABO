@@ -28,7 +28,7 @@
 🔣 Programmation & Outils
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels, SHAP)
 - R, SAS, SQL (MySQL, PostgreSQL, SQL Server, MariaDB), NoSQL (MongoDB)
-- Git & GitHub, Jupyter Notebook, KNIME, ETL, Streamlit
+- Git & GitHub, Jupyter Notebook, KNIME, ETL, Talend, Streamlit
 - Langage M, DAX, Power Query (via Power BI)
 
 📊 Data Visualisation
